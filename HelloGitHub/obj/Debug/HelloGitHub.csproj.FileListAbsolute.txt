@@ -1,0 +1,6 @@
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.exe
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\bin\Debug\HelloGitHub.pdb
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.csprojResolveAssemblyReference.cache
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.csproj.CoreCompileInputs.cache
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.exe
+D:\Kuro\Code\Csharp\HelloGitHub\HelloGitHub\obj\Debug\HelloGitHub.pdb
